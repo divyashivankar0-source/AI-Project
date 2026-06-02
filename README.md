@@ -1,2 +1,2 @@
 # AI-Project
-This is Sentiment analyzer project.
+This is a Sentiment analyzer project.
